@@ -4,7 +4,7 @@ docker-compose up
 
 # from dockerhub
 
-docker push lyndontavares/angular-example-01:latest
+
 
 ## V2
 
